@@ -1,2 +1,2 @@
-# larn-html-gridlayout-flexiblebox
+# learn-html-gridlayout-flexiblebox
 CSSグリッドとフレックスボックスによるレイアウトについて
