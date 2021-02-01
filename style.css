@@ -1,0 +1,67 @@
+@charset "UTF-8";
+
+body {
+    margin: 0;
+    font-family: 'Source Sans Pro', 'メイリオ', 'Hiragino Kaku Gothic Pro', sans-serif;
+}
+
+/* サイト名 */
+.site a {
+    color: #000;
+    font-size: 30px;
+    font-family: 'Paytone One', sans-serif;
+    text-decoration: none;
+}
+
+/* メニュー */
+.menu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.menu li a {
+    display: block;
+    padding: 5px;
+    color: #000;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.menu li a:hover {
+    background: #eee;
+}
+
+/* 記事 */
+.kiji h1 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.kiji h1 span {
+    display: block;
+    margin-bottom: 20px;
+    color: #930000;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.kiji p {
+    margin-top: 0;
+    margin-bottom: 20px;
+    line-height: 2;
+    text-align: justify;
+}
+
+.kijiinfo {
+    margin-bottom: 20px;
+    color: #666;
+}
+
+/* コピーライト */
+.copyright p {
+    margin: 0;
+    color: #666;
+    font-size: 14px
+}
